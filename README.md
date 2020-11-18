@@ -3,11 +3,17 @@
 
 <p align="center">
 - :computer: Aquí encontraran todos mis proyectos y podrán seguir paso a paso mi crecimiento profesional
+</p>
 
+<p align="center">
 - 🔭 Actualmente me encuentro realizando un **E-Commerce Full-Stack (Angular & Spring Boot)**
+</p>
 
+<p align="center">
 - 👨‍💻 Todos mis proyectos se encuentran disponibles en [https://devincenzonicole.github.io/portfolio](https://devincenzonicole.github.io/portfolio)
+</p>
 
+<p align="center">
 - Será bienvenida cualquier sugerencia o comentario para cada repo!
 </p>
 
