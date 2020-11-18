@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-- 👨‍💻 Todos mis proyectos se encuentran disponibles en [https://devincenzonicole.github.io/portfolio](https://devincenzonicole.github.io/portfolio)
+- 👨‍💻 Todos mis proyectos se encuentran disponibles en <a href="https://devincenzonicole.github.io/portfolio">Mi Portfolio</a>
 </p>
 
 <p align="center">
