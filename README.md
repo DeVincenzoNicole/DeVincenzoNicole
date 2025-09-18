@@ -1,12 +1,8 @@
 <h1 align="center">Hola 👋, soy Nicole</h1>
-<h3 align="center">Desarrolladora Java Full-Stack en proceso</h3>
+<h3 align="center">Desarrolladora Java</h3>
 
 <p align="center">
 - :computer: Aquí encontraran todos mis proyectos y podrán seguir paso a paso mi crecimiento profesional
-</p>
-
-<p align="center">
-- 🔭 Actualmente me encuentro realizando un **E-Commerce Full-Stack (Angular & Spring Boot)**
 </p>
 
 <p align="center">
