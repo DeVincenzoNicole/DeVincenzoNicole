@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Nicole</h1>
 <h3 align="center">Desarrolladora Java</h3>
+<h2 align="center">Con más de 4 años de experiencia</h2>
 
 <p align="center">
 - :computer: Aquí encontraran todos mis proyectos y podrán seguir paso a paso mi crecimiento profesional
